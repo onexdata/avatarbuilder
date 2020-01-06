@@ -1,0 +1,25 @@
+{
+  "name": "avatarbuilder",
+  "version": "1.0.0",
+  "description": "3D avatar builder",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onexdata/avatarbuilder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onexdata/avatarbuilder/issues"
+  },
+  "homepage": "https://github.com/onexdata/avatarbuilder#readme",
+  "dependencies": {
+    "usws": "^1.0.3"
+  }
+}
